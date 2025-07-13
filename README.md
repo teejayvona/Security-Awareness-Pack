@@ -1,4 +1,4 @@
-# Security Awareness Toolkit
+# Security Awareness Trainer
 
 A practical starter pack to raise user security awareness across organizations. Includes training assets, posters, and communication templates.
 
